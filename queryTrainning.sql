@@ -1,3 +1,14 @@
+
+
+create database june;
+use june;
+
+create table
+(
+    id char(10) primary key
+
+);
+
 create database study;
 
 use study;
